@@ -19,5 +19,5 @@
 -Brief description of the Project
 
 ## Screenshots
-![ScreenShot] (
+![ScreenShot] (https://github.com/wilmerojeda13/Refactor-Project/blob/main/Images/Screenshot.png)
 
