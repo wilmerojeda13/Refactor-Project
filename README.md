@@ -16,7 +16,7 @@
 
 ## Features
 - High Qualities Photos 
--Brief description of the Project
+- Brief description of the Project
 
 ## Screenshots
 ![ScreenShot] (https://github.com/wilmerojeda13/Refactor-Project/blob/main/Images/Screenshot.png)
